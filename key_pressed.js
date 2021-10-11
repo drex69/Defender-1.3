@@ -202,7 +202,7 @@ function keyPressed(){
           enemys.push(new bomber(-975/ws,450/ws));
           enemys.push(new pod(-775/ws,450/ws));
           enemys.push(new swarmer(-575/ws,450/ws));
-
+          enemys[5].y = 450/ws;
         }
 
 
