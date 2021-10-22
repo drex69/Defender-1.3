@@ -26,7 +26,7 @@ class player_class
     this.turn_speed = 15/ws;
     this.dir = 0;
 
-    this.lives = 1;
+    this.lives = 3;
     this.bombs = 3;
     this.extra_life = 10000;
     this.extra_bomb = 10000;
